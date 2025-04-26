@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading-component {
+  display: flex;
+}
+
+.heading {
+  border: 1px solid black;
+  padding: 4px;
+  margin: 2px;
+}
+
+.active-tab {
+  border: 1px solid black;
+  height: 250px;
+  padding: 5px;
+  margin: 2px;
+}
+
+.interests div {
+  padding: 2px;
+}
+
+.error {
+  color: red;
+  display: block;
+  font-size: small;
+}
